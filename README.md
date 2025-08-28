@@ -3,4 +3,4 @@
 It returns the stock graph for any stock in the indian stock market.
 
 
-![Uploading Screenshot 2025-08-28 at 3.00.51 PM.png…]()
+<img width="1182" height="741" alt="Screenshot 2025-08-28 at 3 00 51 PM" src="https://github.com/user-attachments/assets/85aec9ec-4bc0-4f0c-b5ad-b780a20bc524" />
